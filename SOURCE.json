@@ -5,7 +5,7 @@
   "source_worktree_status": [],
   "repository": "ui-service.toast",
   "files_sha256": {
-    ".github/workflows/verify.yml": "f4f1f1920aa0ec16710e8cc5c6b196ff69cbe5d0fcb4bdf8c8566e949831178f",
+    ".github/workflows/verify.yml": "b737a9f83062bdb3437455e7abab0362ee806c4663fe80af564ea77a353765b3",
     "CONTEXT.md": "882af61b8b95e2c57d49c30db2579eb4c6bf66553ed673c8a50f0bfd18546c8e",
     "LICENSING.md": "0bddd694c9d8b704519bf4b02a97cb8e0896867f1e102c3b6849c9088eb1f830",
     "README.md": "dd8e11d1e7f02029fd4675ecb3cefcb8e0f28307ada5cbd6c8a5179fc6d850b7",
