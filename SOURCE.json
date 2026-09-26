@@ -1,0 +1,16 @@
+{
+  "source_repository": "https://github.com/justgook/gamectl",
+  "source_base_revision": "01bbfb1cb07bca898b86e7127cf433d2d23aaf7e",
+  "snapshot_kind": "working-tree source snapshot; no history rewritten",
+  "source_worktree_status": [],
+  "repository": "ui-service.toast",
+  "files_sha256": {
+    ".github/workflows/verify.yml": "f4f1f1920aa0ec16710e8cc5c6b196ff69cbe5d0fcb4bdf8c8566e949831178f",
+    "CONTEXT.md": "882af61b8b95e2c57d49c30db2579eb4c6bf66553ed673c8a50f0bfd18546c8e",
+    "LICENSING.md": "0bddd694c9d8b704519bf4b02a97cb8e0896867f1e102c3b6849c9088eb1f830",
+    "README.md": "dd8e11d1e7f02029fd4675ecb3cefcb8e0f28307ada5cbd6c8a5179fc6d850b7",
+    "package.json": "d85d4108bd42b2b9759d064ae7d7e2f3597a37b1e5c0dadb0c2354945b181e13",
+    "scripts/verify.mjs": "cd6b90180530ac4d5377b876dffc474a92476551571fcd605c381f0aea49d9e7",
+    "src/ui-plugins/toast.js": "66ea36af0b3f0574148a4ef97e47bf1fb4f5d116681fa6733fb2e1857d77a3f8"
+  }
+}
