@@ -1,0 +1,58 @@
+{
+  "files_sha256": {
+    "src/ui-plugins/toast.js": "66ea36af0b3f0574148a4ef97e47bf1fb4f5d116681fa6733fb2e1857d77a3f8"
+  },
+  "limits": "No universal plagiarism search or legal ownership certification. Follow-history can end at file creation/copy and cannot establish upstream import version. Generated package metadata is not source provenance.",
+  "scope": "13 entry-source closures from packaging/ecosystem/ui.py (12 JavaScript Units + theme.the98); Host imports and sibling Project Units excluded. No code changes or wholesale relicensing.",
+  "source_commit": "ca48dbf190aa66e948a04d2f82a624295b7b6464",
+  "unit": {
+    "confidence": "moderate: Git attribution and closure scan; no affirmative proof every line is original",
+    "evidence": [
+      "Static import/asset closure, header/vendoring signal scan, git --follow and line-porcelain blame recorded in sources."
+    ],
+    "excluded_host_imports": [],
+    "findings": "No identifiable copied third-party header, npm import, vendored library, inline artwork, remote fetch or bundled font found in Unit closure. Git authorship is not proof of copyright ownership.",
+    "kind": "ui-service",
+    "licenses": {
+      "gams_authored_code": "Apache-2.0 (owner decision; installation by parent generator pending)",
+      "third_party": []
+    },
+    "name": "ui-service.toast",
+    "notices": [],
+    "release_blockers": [],
+    "sources": [
+      {
+        "blame_authors": [
+          "Rom\u0101ns Pota\u0161ovs"
+        ],
+        "earliest_followed_change": {
+          "author": "Rom\u0101ns Pota\u0161ovs",
+          "authored_at": "2025-12-11T15:22:52+02:00",
+          "commit": "7437267e60758d35d11b58b9d93213837f50fabc",
+          "email": "justgook@gmail.com",
+          "subject": "\u2728 feat: add toast notification system with alert/confirm support"
+        },
+        "git_blob": "263deed2f3b8e8464cbb18b6b9f45209bdd3fdf4",
+        "history_authors": [
+          "Rom\u0101ns Pota\u0161ovs <justgook@gmail.com>"
+        ],
+        "history_count": 15,
+        "latest_change": {
+          "author": "Rom\u0101ns Pota\u0161ovs",
+          "authored_at": "2026-07-20T14:22:00+03:00",
+          "commit": "2d6a0586dad5e7c22292f9d11d1fda95ce74a67b",
+          "email": "justgook@gmail.com",
+          "subject": "\u2728(ui:toast): add progress notifications"
+        },
+        "line_count": 748,
+        "path": "ui-plugins/toast.js",
+        "scan_signals": [],
+        "sha256": "66ea36af0b3f0574148a4ef97e47bf1fb4f5d116681fa6733fb2e1857d77a3f8",
+        "source_url": "https://github.com/justgook/gamectl/blob/ca48dbf190aa66e948a04d2f82a624295b7b6464/ui-plugins/toast.js",
+        "static_imports": [],
+        "working_tree_matches_HEAD": true
+      }
+    ],
+    "upstream": []
+  }
+}
