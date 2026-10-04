@@ -4,8 +4,9 @@ Initial prerelease extraction of the GAMS `ui-service` Project Unit from
 `ui-plugins/toast.js`. Source behavior is intentionally unchanged.
 ## Install mapping
 
-Download the pinned `ui-service.toast-0.1.0.zip` and `SHA256SUMS` from the owner-published
-`v0.1.0` GitHub Release and verify the checksum. Unpack into a separate staging
+Prospective local candidate: `ui-service.toast-0.2.0.zip` and `SHA256SUMS` for
+`v0.2.0` (prepared, not yet published). After separately approved publication,
+download and verify the checksum. Unpack into a separate staging
 folder: copy its deployment files to the same Project-relative paths, and keep its
 LICENSE, NOTICE, README.md and unit.json under `notices/project-units/ui-service.toast/`.
 Do not unpack metadata over the Project's own README or license. The entry is
