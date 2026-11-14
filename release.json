@@ -1,4 +1,0 @@
-{
-  "kind": "ui-service",
-  "entry": "ui-plugins/toast.js"
-}
