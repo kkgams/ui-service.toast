@@ -283,7 +283,9 @@ export class ToastManager extends HTMLElement {
     closeAll(position) {
         const selector = position ? `view-toast[position="${position}"]` : "view-toast"
         const toasts = this.querySelectorAll(selector)
-        toasts.forEach((toast) => toast.close(false))
+        toasts.forEach((toast) => {
+            toast.close(false)
+        })
     }
 
     get toasts() {
@@ -397,7 +399,7 @@ export class ViewToast extends HTMLElement {
      */
     get duration() {
         const dur = parseInt(this.getAttribute("duration"), 10)
-        return isNaN(dur) ? 3000 : dur
+        return Number.isNaN(dur) ? 3000 : dur
     }
 
     /**
